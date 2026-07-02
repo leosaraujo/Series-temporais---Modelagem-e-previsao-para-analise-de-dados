@@ -1,0 +1,2 @@
+# Series-temporais---Modelagem-e-previsao-para-analise-de-dados
+O objetivo é fazer uma modelagem e previsão da série temporal da concentração de CO₂ utilizando os modelos SNAIVE, ETS, ARIMA e SARIMA. O projeto compara o desempenho desses modelos por meio de critérios de ajuste, métricas de previsão e análise dos resíduos, visando identificar a abordagem mais adequada para gerar previsões confiáveis dos dados.
